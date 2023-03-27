@@ -1,0 +1,28 @@
+ /* css reset
+ body{
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    background: url('bg.jpg');
+}
+.left{
+    display: inline-block;
+    border: 2px solid red;
+    position: absolute;
+    left: 34px;
+    top: 22px;
+}
+.mid{
+    display: inline-block;
+    width: 33%;
+    border: 2px solid blue;
+    margin: 12px auto;
+
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 22px;
+    border: 2px solid green;
+} */
